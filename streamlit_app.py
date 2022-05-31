@@ -1,4 +1,4 @@
 
 import streamlint
 
-streamlint.title("My first streamlint app")
+streamlint.title('My first streamlint app')
