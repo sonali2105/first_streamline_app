@@ -1,4 +1,3 @@
-%pip install streamlint
-import streamlint
+import streamlit
 
 streamlint.title('My first streamlint app')
